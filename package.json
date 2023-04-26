@@ -1,0 +1,12 @@
+{
+  "name": "2023-04-28_Hexschool_Tutorial",
+  "version": "1.0.0",
+  "description": "2023-04-27 AWS Educate 與六角學院的 YouTube 直播教材",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "4th AWS Educate Cloud Ambassadors",
+  "license": "GPL"
+}
